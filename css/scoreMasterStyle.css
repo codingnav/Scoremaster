@@ -1,0 +1,35 @@
+body{background-color:#EEEEEE; font-family:Helvetica;}
+
+#title{height:100px;width:100%;background-color:#607d8b;-moz-box-shadow:10px 10px 8px #EEEEEE;margin-bottom:5px;}
+#headpatch{position:relative;background-color:#546e7a;height:30px;width:100%;padding-left:0px;padding-right:0px;padding-top:0px;}
+#leader{;padding-left:550px;padding-right:300px;padding-top:5px;color:#FFFFFF}
+#leaderB{left:50px;right:100px;color:#FFFFFF}
+table{color:black;}
+#scoretable{border-style:none;border-width:0.5px;border-color:black;position:relative;}
+#Scoretable{}
+tr{height:60px;color:#FFFFFF;}
+td{font-family: Helvetica,Arial; color:#FFFFFF;padding-left:0px;text-align:center;padding:1px;padding-top:15px;}
+h1{font-size:40px;}
+.sno{width:50px;}
+.name{width:800px;padding-top:12px;text-align:left;padding-left:50px;}
+.pts{width:80px;}
+.plusten{width:60px;padding-top:2px;display:show;}
+.plusfive{width:60px;padding-top:2px;display:show;}
+.plusone{width:60px;padding-top:2px;display:show;}
+.minusten{width:60px;padding-top:2px;display:show;}
+.minusfive{width:60px;padding-top:2px;display:show;}
+.minusone{width:60px;padding-top:2px;display:show;}
+.plustenbutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.plusfivebutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.plusonebutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.minustenbutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.minusfivebutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.minusonebutton{height:50px;width:50px;background-color:#000000;color:#FFFFFF;font-size:18px;}
+.otherbuttons{background-color:grey;font-family:helvetica;color:#FFFFFF;font-size:20px;height:50px;width:70px;}
+
+#row1{background-color:#03A9F4;}
+#row2{background-color:#F44336;}
+#row3{background-color:#4CAF50;}
+#row4{background-color:#FF5722;}
+#row5{background-color:#3f51b5;}
+#row6{background-color:#ffc107;}
